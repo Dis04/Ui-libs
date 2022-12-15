@@ -17,7 +17,7 @@ local Objects = {Background = {}, GrayContrast = {}, DarkContrast = {}, TextColo
 
 local Themes = {
 	Background = Color3.fromRGB(27, 27, 27),
-	GrayContrast = Color3.fromRGB(39, 38, 46),
+	GrayContrast = Color3.fromRGB(23, 23, 23),
 	DarkContrast = Color3.fromRGB(23, 23, 23),
 	TextColor = Color3.fromRGB(255,255,255),
 	SectionContrast = Color3.fromRGB(23,23,23),

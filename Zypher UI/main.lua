@@ -16,13 +16,13 @@ local Library = {}
 local Objects = {Background = {}, GrayContrast = {}, DarkContrast = {}, TextColor = {}, SectionContrast = {}, DropDownListContrast = {}, CharcoalContrast = {}}
 
 local Themes = {
-	Background = Color3.fromRGB(46, 46, 54),
+	Background = Color3.fromRGB(27, 27, 27),
 	GrayContrast = Color3.fromRGB(39, 38, 46),
-	DarkContrast = Color3.fromRGB(29, 29, 35),
+	DarkContrast = Color3.fromRGB(23, 23, 23),
 	TextColor = Color3.fromRGB(255,255,255),
-	SectionContrast = Color3.fromRGB(39,38,46),
-	DropDownListContrast = Color3.fromRGB(34, 34, 41),
-	CharcoalContrast = Color3.fromRGB(21,21,26),
+	SectionContrast = Color3.fromRGB(23,23,23),
+	DropDownListContrast = Color3.fromRGB(23, 23, 23),
+	CharcoalContrast = Color3.fromRGB(23,23,23),
 }
 
 function Library:Create(what, propri)
